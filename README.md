@@ -1,23 +1,24 @@
 
 # BCA Practical Work – NLP, Neural Networks & Digital Image Processing
 
+# LAB-AI-ML
+
+Academic practical work and implementations covering **Natural Language Processing, Neural Networks, and Digital Image Processing**.
+
+This repository documents my practical learning through Python programs, experiments, and supporting files completed as part of my Computer Science & applications coursework.
+## Areas Covered
+
+| Area | Folder | What you'll find |
+|---|---|---|
+| Natural Language Processing | [`NLP_PRACTICLE`](./NLP_PRACTICLE/) | NLP practical programs |
+| Neural Networks | [`NN_PRACTICLE`](./NN_PRACTICLE/) | Neuron, perceptron, learning and neural-network practicals |
+| Digital Image Processing | [`DIP`](./DIP/) | Image processing, transformations, filtering and related practicals |
+
 This repository contains my academic practical work and implementations in three areas of Computer Science:
 
 - **Natural Language Processing (NLP)**
 - **Neural Networks (NN)**
 - **Digital Image Processing (DIP)**
-
-The repository documents my practical learning through Python programs, experiments, input files, and output examples.
-
----
-
-## Repository Overview
-
-| Area | Folder | Description |
-|---|---|---|
-| Natural Language Processing | [`NLP_PRACTICLE`](./NLP_PRACTICLE/) | NLP practical programs |
-| Neural Networks | [`NN_PRACTICLE`](./NN_PRACTICLE/) | Neural network implementations |
-| Digital Image Processing | [`DIP`](./DIP/) | Image processing practicals |
 
 ---
 
@@ -207,7 +208,7 @@ Some programs are simple implementations created specifically to understand the 
 
 **Syeda Nazish**
 
-Computer Science Student
+Computer Science & applications Student
 
 > Learning by implementing, experimenting, and documenting.
 
