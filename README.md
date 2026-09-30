@@ -96,6 +96,7 @@ The DIP section contains practical implementations for processing and manipulati
 | Convolution | [`p6_conv.py`](./DIP/p6_conv.py) |
 | Run-Length Encoding | [`p7_RLE.py`](./DIP/p7_RLE.py) |
 | GLP | [`p8_GLP.py`](./DIP/p8_GLP.py) |
+| New Practical | [`dip_pr_2.py`](./DIP/dip_pr_2.py) |
 
 The folder also contains supporting images and videos used during the practical work.
 
