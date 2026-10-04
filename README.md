@@ -97,6 +97,29 @@ The DIP section contains practical implementations for processing and manipulati
 | Run-Length Encoding | [`p7_RLE.py`](./DIP/p7_RLE.py) |
 | GLP | [`p8_GLP.py`](./DIP/p8_GLP.py) |
 | New Practical | [`dip_pr_2.py`](./DIP/dip_pr_2.py) |
+|Adaptive Median Filtering | [`p9_AMF_img.py`](./p9_AMF_img.py) |
+| Wiener Filtering | [`p10_wiener.py`](./p10_wiener.py) |
+| Inverse Filtering on Color Images | [`p11Inverse.py`](./p11Inverse.py) |
+| Color Histogram | [`p12_color_hist.py`](./p12_color_hist.py) |
+
+### Topics Covered
+
+- Color image processing
+- Logical image operations
+- Grayscale conversion
+- Histogram processing
+- Discrete Fourier Transform
+- Video compression
+- Run Length Encoding
+- Gaussian noise
+- Adaptive Median Filtering
+- Wiener filtering
+- Inverse filtering
+- Color histograms
+
+### Tools & Libraries
+
+`Python` · `OpenCV` · `NumPy` · `Matplotlib`
 
 The folder also contains supporting images and videos used during the practical work.
 
