@@ -226,6 +226,13 @@ The repository may be updated as I complete, improve, or revisit practicals.
 
 Some programs are simple implementations created specifically to understand the underlying concepts.
 
+### 🖼️ Digital Image Processing (DIP)
+
+**Status: ✅ Practicals 1–12 Completed**
+
+A collection of practical implementations covering fundamental Digital Image
+Processing concepts using Python, OpenCV, NumPy, and Matplotlib.
+
 ---
 
 ## Author
