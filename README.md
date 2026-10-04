@@ -168,21 +168,6 @@ Example output:
 ![Convolution Output](./NN_PRACTICLE/Figure_1.png)
 
 ---
-
-## How to Run
-
-Clone the repository:
-
-```bash
-git clone <repository-url>
-````
-
-Navigate into the repository:
-
-```bash
-cd practicle
-```
-
 Open the folder for the subject you want to work with:
 
 ```text
@@ -240,19 +225,10 @@ Some programs are simple implementations created specifically to understand the 
 | 🖼️ Digital Image Processing | 12/12 | ✅ |
 
 ### 🧠 Neural Networks
-
 **Status: 🔄 12/15 Practicals Completed**
 
-A collection of practical implementations covering fundamental Neural Network
-concepts and learning algorithms using Python.
-
 ### 🖼️ Digital Image Processing (DIP)
-
 **Status: ✅ Practicals 1–12 Completed**
-
-A collection of practical implementations covering fundamental Digital Image
-Processing concepts using Python, OpenCV, NumPy, and Matplotlib.
-
 ---
 
 ## Author
