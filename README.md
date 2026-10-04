@@ -43,34 +43,30 @@ The NLP section contains the practical programs completed as part of my academic
 
 Folder: [`NN_PRACTICLE`](./NN_PRACTICLE/)
 
-This section contains practical implementations related to artificial neurons, perceptrons, learning algorithms, and other neural-network concepts.
+### 🧠 Neural Networks
 
-### Practical Programs
+**Status: 🔄 12/15 Practicals Completed**
 
-### 🧠 Neural Network Practicals
+A collection of practical implementations covering fundamental Neural Network
+concepts and learning algorithms using Python.
 
-**Progress: 12/15 Practicals Completed**
-
-| Practical | Program | Status |
-|---|---|---|
-| 1 | [`p1_mp_neuron.py`](./NN_PRACTICLE/p1_mp_neuron.py) | ✅ |
-| 2 | [`p2_mp_neuron.py`](./NN_PRACTICLE/p2_mp_neuron.py) | ✅ |
-| 3 | [`p3_mp_neuron.py`](./NN_PRACTICLE/p3_mp_neuron.py) | ✅ |
-| 4 | [`p4_sl_perceptron.py`](./NN_PRACTICLE/p4_sl_perceptron.py) | ✅ |
-| 5 | [`p5_sl_perceptron.py`](./NN_PRACTICLE/p5_sl_perceptron.py) | ✅ |
-| 6 | [`p6_sl_perceptron.py`](./NN_PRACTICLE/p6_sl_perceptron.py) | ✅ |
-| 7 | [`p7_winner_comp.py`](./NN_PRACTICLE/p7_winner_comp.py) | ✅ |
-| 8 | [`p8_convergence_theory.py`](./NN_PRACTICLE/p8_convergence_theory.py) | ✅ |
-| 9 | [`p9_bp_ml_perceptron.py`](./NN_PRACTICLE/p9_bp_ml_perceptron.py) | ✅ |
-| 10 | [`p10.py`](./NN_PRACTICLE/p10.py) | ✅ |
-| 11 | [`p11.py`](./NN_PRACTICLE/p11.py) | ✅ |
-| 12 | [`p12.py`](./NN_PRACTICLE/p12.py) | ✅ |
-| 13 | — | ⏳ Remaining |
-| 14 | — | ⏳ Remaining |
-| 15 | — | ⏳ Remaining |
-
-**Completed:** 12/15  
-**Remaining:** 3 Practicals
+| Practical | Program |
+|---|---|
+| 1 | [`p1_mp_neuron.py`](./NN_PRACTICLE/p1_mp_neuron.py) |
+| 2 | [`p2_mp_neuron.py`](./NN_PRACTICLE/p2_mp_neuron.py) |
+| 3 | [`p3_mp_neuron.py`](./NN_PRACTICLE/p3_mp_neuron.py) |
+| 4 | [`p4_sl_perceptron.py`](./NN_PRACTICLE/p4_sl_perceptron.py) |
+| 5 | [`p5_sl_perceptron.py`](./NN_PRACTICLE/p5_sl_perceptron.py) |
+| 6 | [`p6_sl_perceptron.py`](./NN_PRACTICLE/p6_sl_perceptron.py) |
+| 7 | [`p7_winner_comp.py`](./NN_PRACTICLE/p7_winner_comp.py) |
+| 8 | [`p8_convergence_theory.py`](./NN_PRACTICLE/p8_convergence_theory.py) |
+| 9 | [`p9_bp_ml_perceptron.py`](./NN_PRACTICLE/p9_bp_ml_perceptron.py) |
+| 10 | [`p10.py`](./NN_PRACTICLE/p10.py) |
+| 11 | [`p11.py`](./NN_PRACTICLE/p11.py) |
+| 12 | [`p12.py`](./NN_PRACTICLE/p12.py) |
+| 13 | ⏳ Remaining |
+| 14 | ⏳ Remaining |
+| 15 | ⏳ Remaining |
 
 ### Concepts Covered
 
@@ -91,27 +87,27 @@ The practical work includes concepts such as:
 
 Folder: [`DIP`](./DIP/)
 
-A collection of practical implementations covering fundamental concepts in
-Digital Image Processing using Python, OpenCV, NumPy, and Matplotlib.
+### 🖼️ Digital Image Processing (DIP)
 
-### Practical Programs
+**Status: ✅ Practicals 1–12 Completed**
+
+A collection of practical implementations covering fundamental Digital Image
+Processing concepts using Python, OpenCV, NumPy, and Matplotlib.
 
 | Practical | Program |
 |---|---|
-| Color Processing | [`p1_color.py`](./DIP/p1_color.py) |
-| RGB Histogram | [`p1_rgb_hist.py`](./DIP/p1_rgb_hist.py) |
-| Logical Operations | [`p2_logic_op.py`](./DIP/p2_logic_op.py) |
-| Gray-Level Processing | [`p3_graylevel.py`](./DIP/p3_graylevel.py) |
-| Histogram Processing | [`p4_hist.py`](./DIP/p4_hist.py) |
-| Discrete Fourier Transform | [`p5_DFT.py`](./DIP/p5_DFT.py) |
-| Convolution | [`p6_conv.py`](./DIP/p6_conv.py) |
-| Run-Length Encoding | [`p7_RLE.py`](./DIP/p7_RLE.py) |
-| GLP | [`p8_GLP.py`](./DIP/p8_GLP.py) |
-| New Practical | [`dip_pr_2.py`](./DIP/dip_pr_2.py) |
-|Adaptive Median Filtering | [`p9_AMF_img.py`](./p9_AMF_img.py) |
-| Wiener Filtering | [`p10_wiener.py`](./p10_wiener.py) |
-| Inverse Filtering on Color Images | [`p11Inverse.py`](./p11Inverse.py) |
-| Color Histogram | [`p12_color_hist.py`](./p12_color_hist.py) |
+| 1 | [`p1_color.py`](./DIP/p1_color.py) |
+| 2 | [`p2_logical.py`](./DIP/p2_logical.py) |
+| 3 | [`p3_grayscale.py`](./DIP/p3_grayscale.py) |
+| 4 | [`p4_hist.py`](./DIP/p4_hist.py) |
+| 5 | [`p5_DFT.py`](./DIP/p5_DFT.py) |
+| 6 | [`p6_v_com.py`](./DIP/p6_v_com.py) |
+| 7 | [`p7_RLE.py`](./DIP/p7_RLE.py) |
+| 8 | [`p8_GNP.py`](./DIP/p8_GNP.py) |
+| 9 | [`p9_AMF_img.py`](./DIP/p9_AMF_img.py) |
+| 10 | [`p10_wiener.py`](./DIP/p10_wiener.py) |
+| 11 | [`p11Inverse.py`](./DIP/p11Inverse.py) |
+| 12 | [`p12_color_hist.py`](./DIP/p12_color_hist.py) |
 
 ### Topics Covered
 
