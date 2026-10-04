@@ -47,20 +47,30 @@ This section contains practical implementations related to artificial neurons, p
 
 ### Practical Programs
 
-| Practical | Program |
-|---|---|
-| 1 | [`p1_mp_neuron.py`](./NN_PRACTICLE/p1_mp_neuron.py) |
-| 2 | [`p2_mp_neuron.py`](./NN_PRACTICLE/p2_mp_neuron.py) |
-| 3 | [`p3_mp_neuron.py`](./NN_PRACTICLE/p3_mp_neuron.py) |
-| 4 | [`p4_sl_perceptron.py`](./NN_PRACTICLE/p4_sl_perceptron.py) |
-| 5 | [`p5_sl_perceptron.py`](./NN_PRACTICLE/p5_sl_perceptron.py) |
-| 6 | [`p6_sl_perceptron.py`](./NN_PRACTICLE/p6_sl_perceptron.py) |
-| 7 | [`p7_winner_comp.py`](./NN_PRACTICLE/p7_winner_comp.py) |
-| 8 | [`p8_convergence_theory.py`](./NN_PRACTICLE/p8_convergence_theory.py) |
-| 9 | [`p9_bp_ml_perceptron.py`](./NN_PRACTICLE/p9_bp_ml_perceptron.py) |
-| 10 | [`p10.py`](./NN_PRACTICLE/p10.py) |
-| 11 | [`p11.py`](./NN_PRACTICLE/p11.py) |
-| 12 | [`p12.py`](./NN_PRACTICLE/p12.py) |
+### 🧠 Neural Network Practicals
+
+**Progress: 12/15 Practicals Completed**
+
+| Practical | Program | Status |
+|---|---|---|
+| 1 | [`p1_mp_neuron.py`](./NN_PRACTICLE/p1_mp_neuron.py) | ✅ |
+| 2 | [`p2_mp_neuron.py`](./NN_PRACTICLE/p2_mp_neuron.py) | ✅ |
+| 3 | [`p3_mp_neuron.py`](./NN_PRACTICLE/p3_mp_neuron.py) | ✅ |
+| 4 | [`p4_sl_perceptron.py`](./NN_PRACTICLE/p4_sl_perceptron.py) | ✅ |
+| 5 | [`p5_sl_perceptron.py`](./NN_PRACTICLE/p5_sl_perceptron.py) | ✅ |
+| 6 | [`p6_sl_perceptron.py`](./NN_PRACTICLE/p6_sl_perceptron.py) | ✅ |
+| 7 | [`p7_winner_comp.py`](./NN_PRACTICLE/p7_winner_comp.py) | ✅ |
+| 8 | [`p8_convergence_theory.py`](./NN_PRACTICLE/p8_convergence_theory.py) | ✅ |
+| 9 | [`p9_bp_ml_perceptron.py`](./NN_PRACTICLE/p9_bp_ml_perceptron.py) | ✅ |
+| 10 | [`p10.py`](./NN_PRACTICLE/p10.py) | ✅ |
+| 11 | [`p11.py`](./NN_PRACTICLE/p11.py) | ✅ |
+| 12 | [`p12.py`](./NN_PRACTICLE/p12.py) | ✅ |
+| 13 | — | ⏳ Remaining |
+| 14 | — | ⏳ Remaining |
+| 15 | — | ⏳ Remaining |
+
+**Completed:** 12/15  
+**Remaining:** 3 Practicals
 
 ### Concepts Covered
 
@@ -81,7 +91,8 @@ The practical work includes concepts such as:
 
 Folder: [`DIP`](./DIP/)
 
-The DIP section contains practical implementations for processing and manipulating digital images.
+A collection of practical implementations covering fundamental concepts in
+Digital Image Processing using Python, OpenCV, NumPy, and Matplotlib.
 
 ### Practical Programs
 
@@ -225,6 +236,19 @@ The programs are primarily intended for **learning and academic purposes**.
 The repository may be updated as I complete, improve, or revisit practicals.
 
 Some programs are simple implementations created specifically to understand the underlying concepts.
+
+| Area | Progress | Status |
+|---|---:|---|
+| 📝 NLP | Ongoing| 🔄 |
+| 🧠 Neural Networks | 12/15 | 🔄 |
+| 🖼️ Digital Image Processing | 12/12 | ✅ |
+
+### 🧠 Neural Networks
+
+**Status: 🔄 12/15 Practicals Completed**
+
+A collection of practical implementations covering fundamental Neural Network
+concepts and learning algorithms using Python.
 
 ### 🖼️ Digital Image Processing (DIP)
 
