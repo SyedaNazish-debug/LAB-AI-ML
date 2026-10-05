@@ -26,17 +26,41 @@ This repository contains my academic practical work and implementations in three
 
 Folder: [`NLP_PRACTICLE`](./NLP_PRACTICLE/)
 
-The NLP section contains the practical programs completed as part of my academic coursework.
+## 📝 Natural Language Processing (NLP)
 
-### Practical Programs
+This folder contains implementations of the NLP practicals completed as part of the AI/ML laboratory work. The practicals cover fundamental concepts and techniques used in Natural Language Processing.
 
-| Practical | Program |
-|---|---|
-| Practical 1 | [`1st_par.py`](./NLP_PRACTICLE/1st_par.py) |
-| Practical 2 | [`2nd_par.py`](./NLP_PRACTICLE/2nd_par.py) |
-| Practical 3 | [`3rd_par.py`](./NLP_PRACTICLE/3rd_par.py) |
-| Practical 4 | [`4th_par.py`](./NLP_PRACTICLE/4th_par.py) |
+### 📚 NLP Practicals
 
+| Practical | File | Description |
+|-----------|------|-------------|
+| Practical 1 | [`1st_par`](./1st_par) | NLP Practical 1 |
+| Practical 2 | [`2nd_par.py`](./2nd_par.py) | NLP Practical 2 |
+| Practical 3 | [`3rd_par.py`](./3rd_par.py) | NLP Practical 3 |
+| Practical 4 | [`4th_par.py`](./4th_par.py) | NLP Practical 4 |
+| Practical 5 | [`5th_par.py`](./5th_par.py) | NLP Practical 5 |
+| Practical 6 | [`6th_par.py`](./6th_par.py) | NLP Practical 6 |
+
+### 🎯 Topics Covered
+
+- Text preprocessing
+- Tokenization
+- Text normalization
+- Natural Language Processing techniques
+- Feature extraction
+- Text analysis
+- Basic NLP implementation using Python
+
+### 🛠️ Technologies Used
+
+- Python
+- Natural Language Processing
+- NLP libraries and tools
+- Jupyter Notebook / Python environment
+
+---
+
+> **Note:** These practicals are part of my ongoing AI/ML laboratory work and are maintained as a learning record.
 ---
 
 ## 2. Neural Networks
