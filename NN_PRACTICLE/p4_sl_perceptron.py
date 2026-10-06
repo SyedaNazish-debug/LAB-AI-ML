@@ -37,7 +37,7 @@ print("final weights & bias:",w1, w2 ,b)
 print("\n AND gate output:")
 for x in X:
     net=x[0]*w1+x[1]*w2+b
-    if net>1:
+    if net>=1:
         output=1
     else:
         output=0
