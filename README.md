@@ -34,7 +34,7 @@ This folder contains implementations of the NLP practicals completed as part of 
 
 | Practical | File | Description |
 |-----------|------|-------------|
-| Practical 1 | [`1st_par.py`](./1st_par.py) | NLP Practical 1 |
+|Practicle 1|[`1st_par.py`](./1st_par.py)| NLP practicle 1
 | Practical 2 | [`2nd_par.py`](./2nd_par.py) | NLP Practical 2 |
 | Practical 3 | [`3rd_par.py`](./3rd_par.py) | NLP Practical 3 |
 | Practical 4 | [`4th_par.py`](./4th_par.py) | NLP Practical 4 |
