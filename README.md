@@ -34,12 +34,14 @@ This folder contains implementations of the NLP practicals completed as part of 
 
 | Practical | File | Description |
 |-----------|------|-------------|
-| Practical 1 | [`1st_par`](./1st_par) | NLP Practical 1 |
+| Practical 1 | [`1st_par`](./1st_par.py) | NLP Practical 1 |
 | Practical 2 | [`2nd_par.py`](./2nd_par.py) | NLP Practical 2 |
 | Practical 3 | [`3rd_par.py`](./3rd_par.py) | NLP Practical 3 |
 | Practical 4 | [`4th_par.py`](./4th_par.py) | NLP Practical 4 |
 | Practical 5 | [`5th_par.py`](./5th_par.py) | NLP Practical 5 |
 | Practical 6 | [`6th_par.py`](./6th_par.py) | NLP Practical 6 |
+| Practical 7   | [`7th_par.py`](https://github.com/SyedaNazish-debug/LAB-AI-ML/blob/main/NLP_PRACTICLE/7th_par.py)       | NLP Practical 7 |
+| Practical 7.1 | [`7.1th_par.py`](https://github.com/SyedaNazish-debug/LAB-AI-ML/blob/main/NLP_PRACTICLE/7.1th_par.py) | NLP Practical 7.1 |
 
 ### 🎯 Topics Covered
 
