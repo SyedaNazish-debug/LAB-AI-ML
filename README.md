@@ -69,7 +69,7 @@ Folder: [`NN_PRACTICLE`](./NN_PRACTICLE/)
 
 ### 🧠 Neural Networks
 
-**Status: 🔄 12/15 Practicals Completed**
+**Status: ✅ 15/15 Practicals Completed**
 
 A collection of practical implementations covering fundamental Neural Network
 concepts and learning algorithms using Python.
@@ -88,9 +88,9 @@ concepts and learning algorithms using Python.
 | 10 | [`p10.py`](./NN_PRACTICLE/p10.py) |
 | 11 | [`p11.py`](./NN_PRACTICLE/p11.py) |
 | 12 | [`p12.py`](./NN_PRACTICLE/p12.py) |
-| 13 | ⏳ Remaining |
-| 14 | ⏳ Remaining |
-| 15 | ⏳ Remaining |
+| 13            | [`p13_MNIST.py`](https://github.com/SyedaNazish-debug/LAB-AI-ML/blob/main/NN_PRACTICLE/p13_MNIST.py)                         |
+| 14            | [`p14_img_class_cnn.py`](https://github.com/SyedaNazish-debug/LAB-AI-ML/blob/main/NN_PRACTICLE/p14_img_class_cnn.py)       |
+| 15            | [`p15_`](https://github.com/SyedaNazish-debug/LAB-AI-ML/blob/main/NN_PRACTICLE/p15_)                                       |
 
 ### Concepts Covered
 
@@ -245,14 +245,9 @@ Some programs are simple implementations created specifically to understand the 
 | Area | Progress | Status |
 |---|---:|---|
 | 📝 NLP | Ongoing| 🔄 |
-| 🧠 Neural Networks | 12/15 | 🔄 |
+| 🧠 Neural Networks           | 15/15        | ✅         |
 | 🖼️ Digital Image Processing | 12/12 | ✅ |
 
-### 🧠 Neural Networks
-**Status: 🔄 12/15 Practicals Completed**
-
-### 🖼️ Digital Image Processing (DIP)
-**Status: ✅ Practicals 1–12 Completed**
 ---
 
 ## Author
