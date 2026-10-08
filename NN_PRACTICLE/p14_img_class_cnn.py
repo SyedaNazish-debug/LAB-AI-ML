@@ -1,6 +1,9 @@
 import tensorflow as tf
 import matplotlib.pyplot as plt
 import os
+import numpy as np
+import cv2
+from tensorflow.keras.utils import load_img, img_to_array
 
 dataset_path = "dataset1"
 
@@ -25,8 +28,8 @@ val_ds=tf.keras.utils.image_dataset_from_directory(
     batch_size=BATCH_SIZE
 )
 
-class_name=train_ds.class_names
-print("classes:",class_name)
+class_names=train_ds.class_names
+print("classes:",class_names)
 
 model=tf.keras.Sequential([
     tf.keras.layers.Input(shape=(128,128,3)),
@@ -96,3 +99,26 @@ loss, accuracy = model.evaluate(val_ds)
 print("Validation Loss:", loss)
 print("Validation Accuracy:", accuracy)
 
+image_path = "test_image.jpg"
+img = load_img(
+    image_path,
+    target_size=(128, 128)
+)
+
+img_array = img_to_array(img)
+ 
+img_array = np.expand_dims(img_array, axis=0)
+ 
+prediction = model.predict(img_array)
+ 
+if prediction[0][0] < 0.5:
+    predicted_class = class_names[0]
+else:
+    predicted_class = class_names[1]
+ 
+print("Predicted Class:", predicted_class)
+ 
+plt.imshow(img)
+plt.title("Predicted: " + predicted_class)
+plt.axis("off")
+plt.show()
